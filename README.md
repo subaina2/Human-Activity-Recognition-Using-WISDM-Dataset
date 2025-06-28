@@ -8,4 +8,6 @@
 I Implemented and compared machine learning models like KNN, SVM (with different kernels), and K-Means clustering to classify and group activities.
  <br>
 Also, I Evaluated model performance using accuracy, precision, recall, and confusion matrices to determine the most effective approach.
-
+<br>
+Task 1 - 4 include Data loading and pre processing , EDA , KNN Classification and K-Means.
+Taks 5 - 6 include SVM Classification and comparison.
